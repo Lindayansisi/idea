@@ -13,4 +13,8 @@ public class GitTest {
     public void test() {
         System.out.println("llalal");
     }
+
+    public void test1() {
+        System.out.println("hahaaahha");
+    }
 }
